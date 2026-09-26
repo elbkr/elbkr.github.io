@@ -1,1 +1,0 @@
-{"version":"0.0.1","configurations":[{"name":"site","runtimeExecutable":"npx","runtimeArgs":["serve","dist","-p","3000"],"port":3000}]}
