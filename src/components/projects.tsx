@@ -25,6 +25,7 @@ export default function Projects() {
             links={[
               { url: "https://playvibe.gg", type: "website", primary: true },
               { url: "https://discord.gg/nMJJ8PAcD9", type: "discord", text: "Support Server" },
+              { url: "https://github.com/playingvibe", type: "github" },
             ]}
             description="A Discord music bot with a live player"
           />
